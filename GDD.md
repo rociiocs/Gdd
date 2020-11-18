@@ -4,75 +4,70 @@ ERA’S CHAOS
 
 **Documento de diseño por Sabelton Studios**
 
-Contenido
+**índice**
 
-[1.	Cambios	3](#_Toc56619257)
+[1. Cambios	3](#_Toc56620450)
 
-[2.	Concepto	3](#_Toc56619258)
+[2. Concepto	3](#_Toc56620451)
 
-[3.	Visión general del juego	3](#_Toc56619259)
+[3. Visión general del juego	3](#_Toc56620452)
 
-[4.	Mecánica del juego	4](#_Toc56619260)
+[4. Mecánica del juego	4](#_Toc56620453)
 
-[5.	Estados del juego	4](#_Toc56619261)
+[5. Estados del juego	4](#_Toc56620454)
 
-[6.	Niveles	4](#_Toc56619262)
+[6. Niveles	4](#_Toc56620455)
 
->   [6.1. Prehistoria	4](#_Toc56619263)
+>   [6.1. Prehistoria	4](#_Toc56620456)
 
->   [6.2. Antiguo Egipto	5](#_Toc56619264)
+>   [6.2. Antiguo Egipto	5](#_Toc56620457)
 
->   [6.3. Edad Media	5](#_Toc56619265)
+>   [6.3. Edad Media	5](#_Toc56620458)
 
->   [6.4. Revolución Industrial	5](#_Toc56619266)
+>   [6.4. Revolución Industrial	5](#_Toc56620459)
 
->   [6.5. Edad Contemporánea	5](#_Toc56619267)
+>   [6.5. Edad Contemporánea	5](#_Toc56620460)
 
->   [6.6. Multijugador	6](#_Toc56619268)
+>   [6.6. Multijugador	6](#_Toc56620461)
 
-[7.	Progreso del juego	6](#_Toc56619269)
+[7. Progreso del juego	6](#_Toc56620462)
 
-[8.	Arte	12](#_Toc56619270)
+[8. Arte	12](#_Toc56620463)
 
->   [8.1. Música y sonido	12](#_Toc56619271)
+>   [8.1. Música y sonido	12](#_Toc56620464)
 
->   [8.2. Imágenes de concepto	13](#_Toc56619272)
+>   [8.2. Imágenes de concepto	13](#_Toc56620465)
 
->   [8.3. Escenarios y objetos	13](#_Toc56619273)
+>   [8.3. Escenarios y objetos	13](#_Toc56620466)
 
->   [8.3.1. Prehistoria	13](#_Toc56619274)
+>   [8.3.1. Prehistoria	13](#_Toc56620467)
 
->   [8.3.2. Antiguo Egipto	15](#_Toc56619275)
+>   [8.3.2. Antiguo Egipto	15](#_Toc56620468)
 
->   [8.3.3. Edad Media	16](#_Toc56619276)
+>   [8.3.3. Edad Media	16](#_Toc56620469)
 
->   [8.3.4. Revolución Industrial	18](#_Toc56619277)
+>   [8.3.4. Revolución Industrial	18](#_Toc56620470)
 
->   [8.3.5. Actualidad	19](#_Toc56619278)
+>   [8.3.5. Actualidad	19](#_Toc56620471)
 
-[9.	Interfaces	21](#_Toc56619279)
+[9. Interfaces	21](#_Toc56620472)
 
->   [9.1. Menús básicos	21](#_Toc56619280)
+>   [9.1. Menús básicos	21](#_Toc56620473)
 
->   [9.2. Diagrama de flujo	28](#_Toc56619281)
+>   [9.2. Diagrama de flujo	28](#_Toc56620474)
 
-[10.	Modelo de negocio	28](#_Toc56619282)
+>   [11.1. Planificación	29](#_Toc56620475)
 
-[11.	Detalles de producción	29](#_Toc56619283)
-
->   [11.1. Planificación	29](#_Toc56619284)
-
->   [11.2. Costes	29](#_Toc56619285)
+>   [11.2. Costes	29](#_Toc56620476)
 
 **1. Cambios**
 
->   Versión 1.0: Añadido todo lo relativo al sistema de negocio, para reflejar
->   la implicación del mismo dentro del videojuego.
+Versión 1.0: Añadido todo lo relativo al sistema de negocio, para reflejar la
+implicación del mismo dentro del videojuego.
 
->   Versión 2.0: Añadidas mecánicas y progreso de juego digitalizado.
+Versión 2.0: Añadidas mecánicas y progreso de juego digitalizado.
 
->   Versión 3.0: Añadida explicación de los distintos niveles presentes en el
->   juego.
+Versión 3.0: Añadida explicación de los distintos niveles presentes en el juego.
 
 **2. Concepto**
 
@@ -128,7 +123,7 @@ Contenido
         simplicidad de controles facilita la participación de cualquier jugador
         poco experimentado.
 
-## **3. Visión general del juego**
+**3. Visión general del juego**
 
 El juego nos plantea dos dinámicas, basadas en jugabilidad solitaria y
 multijugador. En la primera de ellas hacemos un repaso de diferentes eras
@@ -137,7 +132,7 @@ segundo, nos enfrentaremos a amigos, pudiendo hacer locas combinaciones de
 armas, personajes y eras, pudiendo así enfrentar a un neandertal con un ak-47
 frente a un sicario con ballesta en plena revolución industrial.
 
-## **4. Mecánica del juego**
+**4. Mecánica del juego**
 
 -   Cámara: 2D en vista isométrica
 
@@ -170,11 +165,11 @@ frente a un sicario con ballesta en plena revolución industrial.
 
 -   Items
 
-## **5. Estados del juego**
+**5. Estados del juego**
 
 >   Era’s Chaos 1.0.0
 
-## **6. Niveles**
+**6. Niveles**
 
 A continuación, se detallan los diferentes niveles presentes en el juego, si
 bien cabe destacar que cada nivel presenta diferencias con el anterior, que
@@ -339,12 +334,6 @@ implementación puede variar.
 ![](media/6ec19f977c60df8fd3997d728013788e.png)
 
 **8. Arte**
-
--   Música y sonido
-
--   Imágenes de concepto
-
--   Escenarios
 
 ## **8.1. Música y sonido**
 
@@ -719,9 +708,13 @@ implementación puede variar.
 
         ![](media/47e11b5f8ff4943cedee5732bcd2011f.jpg)
 
-## **9.2. Diagrama de flujo**
+Figura 1: Pantalla de carga
 
-![](media/827f32cc86e67da7375de5b94730807f.png)
+## [media/827f32cc86e67da7375de5b94730807f.png](media/827f32cc86e67da7375de5b94730807f.png)
+
+**9.2. Diagrama de flujo**
+
+Figura 2: Diagrama de flujo
 
 **10. Modelo de negocio**
 
