@@ -4,70 +4,75 @@ ERA’S CHAOS
 
 **Documento de diseño por Sabelton Studios**
 
-**índice**
+Contenido
 
-[1. Cambios	3](#_Toc56620450)
+[1.	Cambios	3](#_Toc56619257)
 
-[2. Concepto	3](#_Toc56620451)
+[2.	Concepto	3](#_Toc56619258)
 
-[3. Visión general del juego	3](#_Toc56620452)
+[3.	Visión general del juego	3](#_Toc56619259)
 
-[4. Mecánica del juego	4](#_Toc56620453)
+[4.	Mecánica del juego	4](#_Toc56619260)
 
-[5. Estados del juego	4](#_Toc56620454)
+[5.	Estados del juego	4](#_Toc56619261)
 
-[6. Niveles	4](#_Toc56620455)
+[6.	Niveles	4](#_Toc56619262)
 
->   [6.1. Prehistoria	4](#_Toc56620456)
+>   [6.1. Prehistoria	4](#_Toc56619263)
 
->   [6.2. Antiguo Egipto	5](#_Toc56620457)
+>   [6.2. Antiguo Egipto	5](#_Toc56619264)
 
->   [6.3. Edad Media	5](#_Toc56620458)
+>   [6.3. Edad Media	5](#_Toc56619265)
 
->   [6.4. Revolución Industrial	5](#_Toc56620459)
+>   [6.4. Revolución Industrial	5](#_Toc56619266)
 
->   [6.5. Edad Contemporánea	5](#_Toc56620460)
+>   [6.5. Edad Contemporánea	5](#_Toc56619267)
 
->   [6.6. Multijugador	6](#_Toc56620461)
+>   [6.6. Multijugador	6](#_Toc56619268)
 
-[7. Progreso del juego	6](#_Toc56620462)
+[7.	Progreso del juego	6](#_Toc56619269)
 
-[8. Arte	12](#_Toc56620463)
+[8.	Arte	12](#_Toc56619270)
 
->   [8.1. Música y sonido	12](#_Toc56620464)
+>   [8.1. Música y sonido	12](#_Toc56619271)
 
->   [8.2. Imágenes de concepto	13](#_Toc56620465)
+>   [8.2. Imágenes de concepto	13](#_Toc56619272)
 
->   [8.3. Escenarios y objetos	13](#_Toc56620466)
+>   [8.3. Escenarios y objetos	13](#_Toc56619273)
 
->   [8.3.1. Prehistoria	13](#_Toc56620467)
+>   [8.3.1. Prehistoria	13](#_Toc56619274)
 
->   [8.3.2. Antiguo Egipto	15](#_Toc56620468)
+>   [8.3.2. Antiguo Egipto	15](#_Toc56619275)
 
->   [8.3.3. Edad Media	16](#_Toc56620469)
+>   [8.3.3. Edad Media	16](#_Toc56619276)
 
->   [8.3.4. Revolución Industrial	18](#_Toc56620470)
+>   [8.3.4. Revolución Industrial	18](#_Toc56619277)
 
->   [8.3.5. Actualidad	19](#_Toc56620471)
+>   [8.3.5. Actualidad	19](#_Toc56619278)
 
-[9. Interfaces	21](#_Toc56620472)
+[9.	Interfaces	21](#_Toc56619279)
 
->   [9.1. Menús básicos	21](#_Toc56620473)
+>   [9.1. Menús básicos	21](#_Toc56619280)
 
->   [9.2. Diagrama de flujo	28](#_Toc56620474)
+>   [9.2. Diagrama de flujo	28](#_Toc56619281)
 
->   [11.1. Planificación	29](#_Toc56620475)
+[10.	Modelo de negocio	28](#_Toc56619282)
 
->   [11.2. Costes	29](#_Toc56620476)
+[11.	Detalles de producción	29](#_Toc56619283)
+
+>   [11.1. Planificación	29](#_Toc56619284)
+
+>   [11.2. Costes	29](#_Toc56619285)
 
 **1. Cambios**
 
-Versión 1.0: Añadido todo lo relativo al sistema de negocio, para reflejar la
-implicación del mismo dentro del videojuego.
+>   Versión 1.0: Añadido todo lo relativo al sistema de negocio, para reflejar
+>   la implicación del mismo dentro del videojuego.
 
-Versión 2.0: Añadidas mecánicas y progreso de juego digitalizado.
+>   Versión 2.0: Añadidas mecánicas y progreso de juego digitalizado.
 
-Versión 3.0: Añadida explicación de los distintos niveles presentes en el juego.
+>   Versión 3.0: Añadida explicación de los distintos niveles presentes en el
+>   juego.
 
 **2. Concepto**
 
@@ -335,6 +340,12 @@ implementación puede variar.
 
 **8. Arte**
 
+-   Música y sonido
+
+-   Imágenes de concepto
+
+-   Escenarios
+
 ## **8.1. Música y sonido**
 
 >   Era’s Chaos tiene una banda sonora compuesta por 6 canciones (Menú principal
@@ -579,6 +590,8 @@ implementación puede variar.
 
 ![](media/6713ab9019c0d4cd9a6ef63e97a2166f.png)
 
+Figura 1: Taxi Actualidad
+
 **9. Interfaces**
 
 ## **9.1. Menús básicos**
@@ -599,122 +612,142 @@ implementación puede variar.
 
     ![](media/4566a5a9d048265ab2bcaa3b35760fb3.jpg)
 
-    -   **Selección nivel historia**: Se accede desde el botón de historia del
-        menú principal y muestra los mapas bloqueados y desbloqueados. Todos los
-        mapas desbloqueados serán interactuables para poder acceder a jugar a
-        ellos. Además, también se visualizará el tutorial del modo historia.
+Figura 2: Pantalla de menú principal
 
-        ![](media/6d48a04f9c87660e360044ac56076620.jpg)
+-   **Selección nivel historia**: Se accede desde el botón de historia del menú
+    principal y muestra los mapas bloqueados y desbloqueados. Todos los mapas
+    desbloqueados serán interactuables para poder acceder a jugar a ellos.
+    Además, también se visualizará el tutorial del modo historia.
 
-    -   **Selección multijugador**: Se accede desde el botón de multijugador del
-        menú principal. En esta pantalla se muestran los mapas, los personajes y
-        armas a elegir. Todos ellos con sus respectivos iconos de bloqueado o
-        desbloqueado. Se pueden elegir entre los cinco mapas de las distintas
-        eras, siempre y cuando este desbloqueado. Por cada jugador, se elegirá
-        un personaje y arma. Los personajes podrán trasladarse mediante flechas
-        para poder visualizar los demás. Para poder ver qué objetos se han
-        seleccionado, se teñirán de amarillo. Cuando se pulse en algún objeto
-        bloqueado, se mostrará un mensaje informando que el objeto está
-        bloqueado y con un botón para acceder a la tienda a comprarlo. Una vez
-        seleccionados todos los objetos, se procederá a pulsar el botón de
-        “play”.
+    ![](media/6d48a04f9c87660e360044ac56076620.jpg)
 
-        ![](media/b7174cfe94f1d691fe9229a9bec06d1b.jpg)
+Figura 3: Pantalla de selección nivel historia
 
-    -   **Tutorial multijugador**: Después de realizar la selección de objetos,
-        se mostrará una pantalla con el tutorial de modo multijugador, mostrando
-        los botones que hay que pulsar o teclas en su lugar. Una vez se haya
-        comprendido el funcionamiento del juego, se pulsa el botón de continuar
-        y empezará la partida.
+-   **Selección multijugador**: Se accede desde el botón de multijugador del
+    menú principal. En esta pantalla se muestran los mapas, los personajes y
+    armas a elegir. Todos ellos con sus respectivos iconos de bloqueado o
+    desbloqueado. Se pueden elegir entre los cinco mapas de las distintas eras,
+    siempre y cuando este desbloqueado. Por cada jugador, se elegirá un
+    personaje y arma. Los personajes podrán trasladarse mediante flechas para
+    poder visualizar los demás. Para poder ver qué objetos se han seleccionado,
+    se teñirán de amarillo. Cuando se pulse en algún objeto bloqueado, se
+    mostrará un mensaje informando que el objeto está bloqueado y con un botón
+    para acceder a la tienda a comprarlo. Una vez seleccionados todos los
+    objetos, se procederá a pulsar el botón de “play”.
 
-        ![](media/7b8359d526c0eb83a2a3523bbc14998c.jpg)
+    ![](media/b7174cfe94f1d691fe9229a9bec06d1b.jpg)
 
-    -   **Puntuaciones**: Se accede desde el menú principal y muestra las
-        mejores 10 puntuaciones, ordenándolas por número de muertes y después
-        por dificultad de mapa.
+Figura 4: Pantalla de selección multijugador
 
-        ![](media/b03112f92105c9e30ff645a4a63edd82.jpg)
+-   **Tutorial multijugador**: Después de realizar la selección de objetos, se
+    mostrará una pantalla con el tutorial de modo multijugador, mostrando los
+    botones que hay que pulsar o teclas en su lugar. Una vez se haya comprendido
+    el funcionamiento del juego, se pulsa el botón de continuar y empezará la
+    partida.
 
-    -   **Tienda**: Se compone de cuatro apartados diferentes donde comprar
-        distintos objetos: mapas, personajes, armas y paquetes para poder
-        utilizar en modo multijugador. Además de tener un apartado donde
-        recargar monedas virtuales. En todos los apartados se visualiza debajo
-        del título, la totalidad de monedas virtuales que se poseen, y en la
-        esquina inferior izquierda un botón de salir.
+    ![](media/7b8359d526c0eb83a2a3523bbc14998c.jpg)
 
-        ![](media/a20bdfffa250ab9b4cc99d47016df55a.jpg)
+Figura 5: Pantalla de tutorial
 
-        -   **Tienda de Mapas**: Se muestra el título de los objetos a comprar y
-            un total de cinco mapas. Estos muestran a través de un icono de un
-            candado, si están bloqueados, además de mostrar las monedas
-            necesarias para poder comprarlo.
+-   **Puntuaciones**: Se accede desde el menú principal y muestra las mejores 10
+    puntuaciones, ordenándolas por número de muertes y después por dificultad de
+    mapa.
 
-            ![](media/e81d768baabb8f1f9568df860b8e4a23.jpg)
+    ![](media/b03112f92105c9e30ff645a4a63edd82.jpg)
 
-        -   **Tienda de Personajes**: Se muestra el título de los objetos a
-            comprar y un total de cinco personajes, que se pueden ir trasladando
-            mediante las flechas de izquierda y derecha para poder visualizar
-            los demás personajes que no aparecen en la pantalla. Estos también
-            se muestran bloqueados y desbloqueados con la diferencia de un
-            candado y las monedas necesarias para desbloquear. Además, los
-            personajes heroicos tendrán un título y resplandor dorado para
-            distinguirlos de los básicos.
+Figura 6: Pantalla de puntuaciones
 
-            ![](media/3e897fe1bf971a86c14e2203223e8531.jpg)
+-   **Tienda**: Se compone de cuatro apartados diferentes donde comprar
+    distintos objetos: mapas, personajes, armas y paquetes para poder utilizar
+    en modo multijugador. Además de tener un apartado donde recargar monedas
+    virtuales. En todos los apartados se visualiza debajo del título, la
+    totalidad de monedas virtuales que se poseen, y en la esquina inferior
+    izquierda un botón de salir.
 
-        -   **Tienda de Armas**: Se muestra el título de los objetos a comprar y
-            un total de cinco armas. Al igual que en los demás apartados,
-            también se muestran si están bloqueadas por un icono de un candado.
+    ![](media/a20bdfffa250ab9b4cc99d47016df55a.jpg)
 
-            ![](media/46316cfc1a5673a9970877eb0e6d5183.jpg)
+Figura 7: Pantalla de tienda
 
-        -   **Tienda de Paquetes**: Se muestra el título de los objetos a
-            comprar y un total de tres paquetes en pantalla, que se pueden ir
-            trasladando mediante flechas de izquierda y derecha para poder
-            visualizar los demás paquetes. Cada paquete se compone de un título
-            de paquete, que puede ser el básico con el nombre de la era, o puede
-            ser el plus con el nombre de la era y un “+”. Los paquetes básicos
-            se componen de mapa, personaje y arma, mientras que los paquetes
-            plus, añaden el personaje heroico. Todos los paquetes muestran las
-            monedas necesarias para desbloquearlos, además del porcentaje que se
-            ahorraría comprando el paquete en vez de comprar los objetos por
-            separado. A parte de las imágenes de los objetos, también se
-            proporciona una descripción de lo que contiene el paquete.
+-   **Tienda de Mapas**: Se muestra el título de los objetos a comprar y un
+    total de cinco mapas. Estos muestran a través de un icono de un candado, si
+    están bloqueados, además de mostrar las monedas necesarias para poder
+    comprarlo.
 
-            ![](media/3e2001ee8f63b0f33385172658e7bf1c.jpg)
+    ![](media/e81d768baabb8f1f9568df860b8e4a23.jpg)
 
-        -   **Tienda Recargar**: Se muestra el título de Recargar, las monedas
-            que se poseen en el momento, y tres cantidades de monedas a comprar,
-            con la posibilidad de mover a izquierda o derecha mediante las
-            flechas para poder ver otras cantidades. Cada cantidad de monedas
-            está definida con un nombre: monedas, bolsa de monedas, saco de
-            monedas y barril de monedas. Cada una tiene una ilustración de las
-            monedas correspondiente a su título, la cantidad de monedas a
-            comprar y el precio en euros.
+Figura 8: Pantalla de tienda mapas
 
-            ![](media/81d15bcf4d2429de1fd40a017c834cbb.jpg)
+-   **Tienda de Personajes**: Se muestra el título de los objetos a comprar y un
+    total de cinco personajes, que se pueden ir trasladando mediante las flechas
+    de izquierda y derecha para poder visualizar los demás personajes que no
+    aparecen en la pantalla. Estos también se muestran bloqueados y
+    desbloqueados con la diferencia de un candado y las monedas necesarias para
+    desbloquear. Además, los personajes heroicos tendrán un título y resplandor
+    dorado para distinguirlos de los básicos.
 
-    -   **Créditos**: Se accede desde el menú principal y está compuesto por el
-        título, los desarrolladores con sus nombres y respectivos roles, y el
-        modo de contacto a través de distintos botones que llevan a los links de
-        cada red social. Las redes sociales a las que se pueden acceder son:
-        Twitter, Instagram, Youtube, Itch.io, Github y Gmail.
+    ![](media/3e897fe1bf971a86c14e2203223e8531.jpg)
 
-        ![](media/c2d075b4cfdd1dc375dd7d148e4158a1.jpg)
+Figura 9: Pantalla de tienda personajes
 
-    -   **Pantalla de Carga**: Antes de que empiece el juego, se muestra una
-        pantalla con el texto “loading” y una animación de un reloj de arena,
-        mientras se cargan todos los assets.
+-   **Tienda de Armas**: Se muestra el título de los objetos a comprar y un
+    total de cinco armas. Al igual que en los demás apartados, también se
+    muestran si están bloqueadas por un icono de un candado.
 
-        ![](media/47e11b5f8ff4943cedee5732bcd2011f.jpg)
+    ![](media/46316cfc1a5673a9970877eb0e6d5183.jpg)
 
-Figura 1: Pantalla de carga
+Figura 10: Pantalla de tienda armas
 
-## [media/827f32cc86e67da7375de5b94730807f.png](media/827f32cc86e67da7375de5b94730807f.png)
+-   **Tienda de Paquetes**: Se muestra el título de los objetos a comprar y un
+    total de tres paquetes en pantalla, que se pueden ir trasladando mediante
+    flechas de izquierda y derecha para poder visualizar los demás paquetes.
+    Cada paquete se compone de un título de paquete, que puede ser el básico con
+    el nombre de la era, o puede ser el plus con el nombre de la era y un “+”.
+    Los paquetes básicos se componen de mapa, personaje y arma, mientras que los
+    paquetes plus, añaden el personaje heroico. Todos los paquetes muestran las
+    monedas necesarias para desbloquearlos, además del porcentaje que se
+    ahorraría comprando el paquete en vez de comprar los objetos por separado. A
+    parte de las imágenes de los objetos, también se proporciona una descripción
+    de lo que contiene el paquete.
 
-**9.2. Diagrama de flujo**
+    ![](media/3e2001ee8f63b0f33385172658e7bf1c.jpg)
 
-Figura 2: Diagrama de flujo
+Figura 11: Pantalla de tienda paquetes
+
+-   **Tienda Recargar**: Se muestra el título de Recargar, las monedas que se
+    poseen en el momento, y tres cantidades de monedas a comprar, con la
+    posibilidad de mover a izquierda o derecha mediante las flechas para poder
+    ver otras cantidades. Cada cantidad de monedas está definida con un nombre:
+    monedas, bolsa de monedas, saco de monedas y barril de monedas. Cada una
+    tiene una ilustración de las monedas correspondiente a su título, la
+    cantidad de monedas a comprar y el precio en euros.
+
+    ![](media/81d15bcf4d2429de1fd40a017c834cbb.jpg)
+
+Figura 12: Pantalla de recargar
+
+-   **Créditos**: Se accede desde el menú principal y está compuesto por el
+    título, los desarrolladores con sus nombres y respectivos roles, y el modo
+    de contacto a través de distintos botones que llevan a los links de cada red
+    social. Las redes sociales a las que se pueden acceder son: Twitter,
+    Instagram, Youtube, Itch.io, Github y Gmail.
+
+    ![](media/c2d075b4cfdd1dc375dd7d148e4158a1.jpg)
+
+Figura 13: Pantalla de créditos
+
+-   **Pantalla de Carga**: Antes de que empiece el juego, se muestra una
+    pantalla con el texto “loading” y una animación de un reloj de arena,
+    mientras se cargan todos los assets.
+
+    ![](media/47e11b5f8ff4943cedee5732bcd2011f.jpg)
+
+Figura 14: Pantalla de loading
+
+## **9.2. Diagrama de flujo**
+
+![](media/827f32cc86e67da7375de5b94730807f.png)
+
+Figura 15: Diagrama de flujo
 
 **10. Modelo de negocio**
 
