@@ -128,7 +128,7 @@ Contenido
         simplicidad de controles facilita la participación de cualquier jugador
         poco experimentado.
 
-**3. Visión general del juego**
+## **3. Visión general del juego**
 
 El juego nos plantea dos dinámicas, basadas en jugabilidad solitaria y
 multijugador. En la primera de ellas hacemos un repaso de diferentes eras
@@ -137,7 +137,7 @@ segundo, nos enfrentaremos a amigos, pudiendo hacer locas combinaciones de
 armas, personajes y eras, pudiendo así enfrentar a un neandertal con un ak-47
 frente a un sicario con ballesta en plena revolución industrial.
 
-**4. Mecánica del juego**
+## **4. Mecánica del juego**
 
 -   Cámara: 2D en vista isométrica
 
@@ -170,11 +170,11 @@ frente a un sicario con ballesta en plena revolución industrial.
 
 -   Items
 
-**5. Estados del juego**
+## **5. Estados del juego**
 
 >   Era’s Chaos 1.0.0
 
-**6. Niveles**
+## **6. Niveles**
 
 A continuación, se detallan los diferentes niveles presentes en el juego, si
 bien cabe destacar que cada nivel presenta diferencias con el anterior, que
