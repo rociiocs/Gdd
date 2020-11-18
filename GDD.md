@@ -1,8 +1,8 @@
 ERA’S CHAOS
 
-Versión 1.0
+**Versión 1.0**
 
-Documento de diseño por Sabelton Studios
+**Documento de diseño por Sabelton Studios**
 
 Contenido
 
@@ -64,19 +64,19 @@ Contenido
 
 >   [11.2. Costes	29](#_Toc56619285)
 
-1.  **Cambios**
+**1. Cambios**
 
-    Versión 1.0: Añadido todo lo relativo al sistema de negocio, para reflejar
-    la implicación del mismo dentro del videojuego.
+>   Versión 1.0: Añadido todo lo relativo al sistema de negocio, para reflejar
+>   la implicación del mismo dentro del videojuego.
 
-    Versión 2.0: Añadidas mecánicas y progreso de juego digitalizado.
+>   Versión 2.0: Añadidas mecánicas y progreso de juego digitalizado.
 
-    Versión 3.0: Añadida explicación de los distintos niveles presentes en el
-    juego.
+>   Versión 3.0: Añadida explicación de los distintos niveles presentes en el
+>   juego.
 
-2.  **Concepto**
+**2. Concepto**
 
-    -   **Título**: Eras’ Chaos.
+-   **Título**: Eras’ Chaos.
 
     -   **Estudio**: Sabelton Studio
 
@@ -128,7 +128,7 @@ Contenido
         simplicidad de controles facilita la participación de cualquier jugador
         poco experimentado.
 
-1.  **Visión general del juego**
+**3. Visión general del juego**
 
 El juego nos plantea dos dinámicas, basadas en jugabilidad solitaria y
 multijugador. En la primera de ellas hacemos un repaso de diferentes eras
@@ -137,7 +137,7 @@ segundo, nos enfrentaremos a amigos, pudiendo hacer locas combinaciones de
 armas, personajes y eras, pudiendo así enfrentar a un neandertal con un ak-47
 frente a un sicario con ballesta en plena revolución industrial.
 
-1.  **Mecánica del juego**
+**4. Mecánica del juego**
 
 -   Cámara: 2D en vista isométrica
 
@@ -170,11 +170,11 @@ frente a un sicario con ballesta en plena revolución industrial.
 
 -   Items
 
-1.  **Estados del juego**
+**5. Estados del juego**
 
-    Era’s Chaos 1.0.0
+>   Era’s Chaos 1.0.0
 
-2.  **Niveles**
+**6. Niveles**
 
 A continuación, se detallan los diferentes niveles presentes en el juego, si
 bien cabe destacar que cada nivel presenta diferencias con el anterior, que
@@ -310,7 +310,7 @@ número, tamaño y distribución de los obstáculos...
 -   Referencias BGM y SFX: Las canciones están referenciadas en los niveles
     anteriores
 
-1.  **Progreso del juego**
+**7. Progreso del juego**
 
 A continuación, se muestra todo el flujo de pantallas a lo largo del juego.
 Indicar que se trata de una primera aproximación, y que su posterior
@@ -338,7 +338,7 @@ implementación puede variar.
 
 ![](media/6ec19f977c60df8fd3997d728013788e.png)
 
-1.  **Arte**
+**8. Arte**
 
 -   Música y sonido
 
@@ -590,7 +590,7 @@ implementación puede variar.
 
 ![](media/6713ab9019c0d4cd9a6ef63e97a2166f.png)
 
-1.  **Interfaces**
+**9. Interfaces**
 
 ## **9.1. Menús básicos**
 
@@ -723,7 +723,7 @@ implementación puede variar.
 
 ![](media/827f32cc86e67da7375de5b94730807f.png)
 
-1.  **Modelo de negocio**
+**10. Modelo de negocio**
 
 Se trata de un modelo *freemium*, en que el usuario tiene posible jugar al juego
 con unos contenidos básicos, si bien si quiere emplear determinados personajes,
@@ -773,7 +773,7 @@ dinero real) o desbloquear algunos de ellos a base de jugar.
     -   Nuevos paquetes de eras con el paso del tiempo, desbloqueables en
         tienda, tanto de épocas pasadas como de predicciones de épocas futuras.
 
-1.  **Detalles de producción**
+**11. Detalles de producción**
 
 ## **11.1. Planificación**
 
