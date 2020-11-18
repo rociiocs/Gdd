@@ -6,63 +6,63 @@ Documento de diseño por Sabelton Studios
 
 Contenido
 
-[1.	Cambios	3](#_Toc56617791)
+[1.	Cambios	3](#_Toc56619257)
 
-[2.	Concepto	3](#_Toc56617792)
+[2.	Concepto	3](#_Toc56619258)
 
-[3.	Visión general del juego	3](#_Toc56617793)
+[3.	Visión general del juego	3](#_Toc56619259)
 
-[4.	Mecánica del juego	4](#_Toc56617794)
+[4.	Mecánica del juego	4](#_Toc56619260)
 
-[5.	Estados del juego	4](#_Toc56617795)
+[5.	Estados del juego	4](#_Toc56619261)
 
-[6.	Niveles	4](#_Toc56617796)
+[6.	Niveles	4](#_Toc56619262)
 
->   [6.1. Prehistoria	4](#_Toc56617797)
+>   [6.1. Prehistoria	4](#_Toc56619263)
 
->   [6.2. Antiguo Egipto	5](#_Toc56617798)
+>   [6.2. Antiguo Egipto	5](#_Toc56619264)
 
->   [6.3. Edad Media	5](#_Toc56617799)
+>   [6.3. Edad Media	5](#_Toc56619265)
 
->   [6.4. Revolución Industrial	5](#_Toc56617800)
+>   [6.4. Revolución Industrial	5](#_Toc56619266)
 
->   [6.5. Edad Contemporánea	5](#_Toc56617801)
+>   [6.5. Edad Contemporánea	5](#_Toc56619267)
 
->   [6.6. Multijugador	6](#_Toc56617802)
+>   [6.6. Multijugador	6](#_Toc56619268)
 
-[7.	Progreso del juego	6](#_Toc56617803)
+[7.	Progreso del juego	6](#_Toc56619269)
 
-[8.	Arte	12](#_Toc56617804)
+[8.	Arte	12](#_Toc56619270)
 
->   [8.1. Música y sonido	12](#_Toc56617805)
+>   [8.1. Música y sonido	12](#_Toc56619271)
 
->   [8.2. Imágenes de concepto	13](#_Toc56617806)
+>   [8.2. Imágenes de concepto	13](#_Toc56619272)
 
->   [8.3. Escenarios y objetos	13](#_Toc56617807)
+>   [8.3. Escenarios y objetos	13](#_Toc56619273)
 
->   [8.3.1. Prehistoria	13](#_Toc56617808)
+>   [8.3.1. Prehistoria	13](#_Toc56619274)
 
->   [8.3.2. Antiguo Egipto	15](#_Toc56617809)
+>   [8.3.2. Antiguo Egipto	15](#_Toc56619275)
 
->   [8.3.3. Edad Media	16](#_Toc56617810)
+>   [8.3.3. Edad Media	16](#_Toc56619276)
 
->   [8.3.4. Revolución Industrial	18](#_Toc56617811)
+>   [8.3.4. Revolución Industrial	18](#_Toc56619277)
 
->   [8.3.5. Actualidad	19](#_Toc56617812)
+>   [8.3.5. Actualidad	19](#_Toc56619278)
 
-[9.	Interfaces	21](#_Toc56617813)
+[9.	Interfaces	21](#_Toc56619279)
 
->   [9.1. Menús básicos	21](#_Toc56617814)
+>   [9.1. Menús básicos	21](#_Toc56619280)
 
->   [9.2. Diagrama de flujo	28](#_Toc56617815)
+>   [9.2. Diagrama de flujo	28](#_Toc56619281)
 
-[10.	Modelo de negocio	28](#_Toc56617816)
+[10.	Modelo de negocio	28](#_Toc56619282)
 
-[11.	Detalles de producción	29](#_Toc56617817)
+[11.	Detalles de producción	29](#_Toc56619283)
 
->   [11.1. Planificación	29](#_Toc56617818)
+>   [11.1. Planificación	29](#_Toc56619284)
 
->   [11.2. Costes	29](#_Toc56617819)
+>   [11.2. Costes	29](#_Toc56619285)
 
 1.  **Cambios**
 
@@ -417,7 +417,7 @@ implementación puede variar.
 >   añadir algo de textura a la escena se ha añadido en varios lugares la sombra
 >   de las hojas de un árbol, haciendo el ambiente algo más atmosférico.
 
-![](media/7785ab92a1a807e234b8d6eb7d8d9308.jpeg)
+![](media/7785ab92a1a807e234b8d6eb7d8d9308.jpg)
 
 >   Los objetos que se han escogido como obstáculos para esta era son cráneos de
 >   rumiantes, piedras y troncos, todos de tonos marrones para destacar con la
@@ -456,9 +456,9 @@ implementación puede variar.
 
 ![](media/c70971ed23a4ee7dce30bb5c84225fe9.png)
 
-![](media/b6bec0b04fa0e098729d5e5ab6ccc47b.jpeg)
+![](media/b6bec0b04fa0e098729d5e5ab6ccc47b.jpg)
 
-![](media/30fe7d2cbe912008e82414016ac19ef3.jpeg)
+![](media/30fe7d2cbe912008e82414016ac19ef3.jpg)
 
 >   Los objetos escogidos para esta era son un frutero de oro, una escultura de
 >   tres gatos azules y una miniatura de una pirámide con escrituras en las
@@ -495,7 +495,7 @@ implementación puede variar.
 >   muy poco saturados y poco alejados de un amarillo apagado, pero con alta
 >   luminancia.
 
-![](media/dee84d92f9ca32568b5043f4dd4d1b9f.jpeg)
+![](media/dee84d92f9ca32568b5043f4dd4d1b9f.jpg)
 
 >   Como objetos de esta era aparecen un barril de madera, un saco de tela lleno
 >   de fruta y una vasija vieja y mohosa. Los colores de los objetos son en
@@ -528,7 +528,7 @@ implementación puede variar.
 >   materiales del escenario simulan ser cobrizos y en algunos puntos pueden
 >   apreciarse manchas de óxido.
 
-![](media/9af96f4a5c2dfb907f1e1523cc6e2aab.jpeg)
+![](media/9af96f4a5c2dfb907f1e1523cc6e2aab.jpg)
 
 >   Los objetos de esta época son partes de la maquinaria que se fabrica en la
 >   fábrica, como ruedas de un mecanismo o engranajes y también cajas de
@@ -563,7 +563,7 @@ implementación puede variar.
 >   base en la realidad, el escenario se aleja de tener una apariencia monótona,
 >   ya que en tal caso predominarían los grises.
 
-![](media/cfe5deaeaf4eaa3fea22f25774d8be4a.jpeg)
+![](media/cfe5deaeaf4eaa3fea22f25774d8be4a.jpg)
 
 >   Los objetos de esta época, que son un cono de tráfico, una tapa de
 >   alcantarilla levantada, un neumático y un objeto especial que es un taxi, sí
@@ -608,14 +608,14 @@ implementación puede variar.
     para cambiar el idioma, mutear o volver a poner el sonido, historia,
     multijugador, puntuaciones, tienda y ranking.
 
-    ![](media/4566a5a9d048265ab2bcaa3b35760fb3.jpeg)
+    ![](media/4566a5a9d048265ab2bcaa3b35760fb3.jpg)
 
     -   **Selección nivel historia**: Se accede desde el botón de historia del
         menú principal y muestra los mapas bloqueados y desbloqueados. Todos los
         mapas desbloqueados serán interactuables para poder acceder a jugar a
         ellos. Además, también se visualizará el tutorial del modo historia.
 
-        ![](media/6d48a04f9c87660e360044ac56076620.jpeg)
+        ![](media/6d48a04f9c87660e360044ac56076620.jpg)
 
     -   **Selección multijugador**: Se accede desde el botón de multijugador del
         menú principal. En esta pantalla se muestran los mapas, los personajes y
@@ -630,7 +630,7 @@ implementación puede variar.
         seleccionados todos los objetos, se procederá a pulsar el botón de
         “play”.
 
-        ![](media/b7174cfe94f1d691fe9229a9bec06d1b.jpeg)
+        ![](media/b7174cfe94f1d691fe9229a9bec06d1b.jpg)
 
     -   **Tutorial multijugador**: Después de realizar la selección de objetos,
         se mostrará una pantalla con el tutorial de modo multijugador, mostrando
@@ -638,13 +638,13 @@ implementación puede variar.
         comprendido el funcionamiento del juego, se pulsa el botón de continuar
         y empezará la partida.
 
-        ![](media/7b8359d526c0eb83a2a3523bbc14998c.jpeg)
+        ![](media/7b8359d526c0eb83a2a3523bbc14998c.jpg)
 
     -   **Puntuaciones**: Se accede desde el menú principal y muestra las
         mejores 10 puntuaciones, ordenándolas por número de muertes y después
         por dificultad de mapa.
 
-        ![](media/b03112f92105c9e30ff645a4a63edd82.jpeg)
+        ![](media/b03112f92105c9e30ff645a4a63edd82.jpg)
 
     -   **Tienda**: Se compone de cuatro apartados diferentes donde comprar
         distintos objetos: mapas, personajes, armas y paquetes para poder
@@ -653,14 +653,14 @@ implementación puede variar.
         del título, la totalidad de monedas virtuales que se poseen, y en la
         esquina inferior izquierda un botón de salir.
 
-        ![](media/a20bdfffa250ab9b4cc99d47016df55a.jpeg)
+        ![](media/a20bdfffa250ab9b4cc99d47016df55a.jpg)
 
         -   **Tienda de Mapas**: Se muestra el título de los objetos a comprar y
             un total de cinco mapas. Estos muestran a través de un icono de un
             candado, si están bloqueados, además de mostrar las monedas
             necesarias para poder comprarlo.
 
-            ![](media/e81d768baabb8f1f9568df860b8e4a23.jpeg)
+            ![](media/e81d768baabb8f1f9568df860b8e4a23.jpg)
 
         -   **Tienda de Personajes**: Se muestra el título de los objetos a
             comprar y un total de cinco personajes, que se pueden ir trasladando
@@ -671,13 +671,13 @@ implementación puede variar.
             personajes heroicos tendrán un título y resplandor dorado para
             distinguirlos de los básicos.
 
-            ![](media/3e897fe1bf971a86c14e2203223e8531.jpeg)
+            ![](media/3e897fe1bf971a86c14e2203223e8531.jpg)
 
         -   **Tienda de Armas**: Se muestra el título de los objetos a comprar y
             un total de cinco armas. Al igual que en los demás apartados,
             también se muestran si están bloqueadas por un icono de un candado.
 
-            ![](media/46316cfc1a5673a9970877eb0e6d5183.jpeg)
+            ![](media/46316cfc1a5673a9970877eb0e6d5183.jpg)
 
         -   **Tienda de Paquetes**: Se muestra el título de los objetos a
             comprar y un total de tres paquetes en pantalla, que se pueden ir
@@ -692,7 +692,7 @@ implementación puede variar.
             separado. A parte de las imágenes de los objetos, también se
             proporciona una descripción de lo que contiene el paquete.
 
-            ![](media/3e2001ee8f63b0f33385172658e7bf1c.jpeg)
+            ![](media/3e2001ee8f63b0f33385172658e7bf1c.jpg)
 
         -   **Tienda Recargar**: Se muestra el título de Recargar, las monedas
             que se poseen en el momento, y tres cantidades de monedas a comprar,
@@ -703,7 +703,7 @@ implementación puede variar.
             monedas correspondiente a su título, la cantidad de monedas a
             comprar y el precio en euros.
 
-            ![](media/81d15bcf4d2429de1fd40a017c834cbb.jpeg)
+            ![](media/81d15bcf4d2429de1fd40a017c834cbb.jpg)
 
     -   **Créditos**: Se accede desde el menú principal y está compuesto por el
         título, los desarrolladores con sus nombres y respectivos roles, y el
@@ -711,13 +711,13 @@ implementación puede variar.
         cada red social. Las redes sociales a las que se pueden acceder son:
         Twitter, Instagram, Youtube, Itch.io, Github y Gmail.
 
-        ![](media/c2d075b4cfdd1dc375dd7d148e4158a1.jpeg)
+        ![](media/c2d075b4cfdd1dc375dd7d148e4158a1.jpg)
 
     -   **Pantalla de Carga**: Antes de que empiece el juego, se muestra una
         pantalla con el texto “loading” y una animación de un reloj de arena,
         mientras se cargan todos los assets.
 
-        ![](media/47e11b5f8ff4943cedee5732bcd2011f.jpeg)
+        ![](media/47e11b5f8ff4943cedee5732bcd2011f.jpg)
 
 ## **9.2. Diagrama de flujo**
 
@@ -725,39 +725,38 @@ implementación puede variar.
 
 1.  **Modelo de negocio**
 
-    Se trata de un modelo *freemium*, en que el usuario tiene posible jugar al
-    juego con unos contenidos básicos, si bien si quiere emplear determinados
-    personajes, mapas y armas, deberá pagar por ello con la moneda de juego
-    (recargable con dinero real) o desbloquear algunos de ellos a base de jugar.
+Se trata de un modelo *freemium*, en que el usuario tiene posible jugar al juego
+con unos contenidos básicos, si bien si quiere emplear determinados personajes,
+mapas y armas, deberá pagar por ello con la moneda de juego (recargable con
+dinero real) o desbloquear algunos de ellos a base de jugar.
 
-    Además, se facilita también al usuario la compra de paquetes ahorro, en que
-    en vez de comprar de forma independiente cada uno de los anteriores
-    elementos, se compran todos ellos juntos por un precio menor (p.e. Pack
-    Antiguo Egipto). Ello permite que el jugador pague por el pack en vez de los
-    individuales, imbuido por el ahorro, comprando así elementos que en un
-    principio no querría.
+>   Además, se facilita también al usuario la compra de paquetes ahorro, en que
+>   en vez de comprar de forma independiente cada uno de los anteriores
+>   elementos, se compran todos ellos juntos por un precio menor (p.e. Pack
+>   Antiguo Egipto). Ello permite que el jugador pague por el pack en vez de los
+>   individuales, imbuido por el ahorro, comprando así elementos que en un
+>   principio no querría.
 
-    También hay presentes elementos que no son desbloqueables jugando, como son
-    personajes heroicos de cada era. Así, al tratarse de un juego multijugador,
-    se produce un pique entre jugadores por tener los personajes más chulos o
-    llamativos, por pura competencia. Además, la posibilidad de personalización
-    siempre es un incentivo de compra.
+>   También hay presentes elementos que no son desbloqueables jugando, como son
+>   personajes heroicos de cada era. Así, al tratarse de un juego multijugador,
+>   se produce un pique entre jugadores por tener los personajes más chulos o
+>   llamativos, por pura competencia. Además, la posibilidad de personalización
+>   siempre es un incentivo de compra.
 
-    Finalmente, con la existencia de los paquetes ahorro se le permite al
-    jugador progresar en el modo historia, de forma que, si se atasca en una
-    era, se plantee el pagar por uno de estos paquetes (o cada uno de los
-    elementos individuales) para dar la era por completada y poder avanzar
-    niveles.
+>   Finalmente, con la existencia de los paquetes ahorro se le permite al
+>   jugador progresar en el modo historia, de forma que, si se atasca en una
+>   era, se plantee el pagar por uno de estos paquetes (o cada uno de los
+>   elementos individuales) para dar la era por completada y poder avanzar
+>   niveles.
 
-    Por otra línea, en lo que respecta a la productividad del juego a
-    medio-largo plazo, se plantean distintas estrategias, como son:
+>   Por otra línea, en lo que respecta a la productividad del juego a
+>   medio-largo plazo, se plantean distintas estrategias, como son:
 
-    -   Realización de pequeños torneos en eventos dedicados a videojuegos (como
-        es la Madrid Games Week), cuya asistencia requeriría del pago de una
-        pequeña participación, y entre cuyos premios habría figuras de
-        personajes de juego, así como el premio especial de disponer de tu
-        propio personaje caracterizado como nuevo personaje heroico en la
-        próxima entrega del juego.
+-   Realización de pequeños torneos en eventos dedicados a videojuegos (como es
+    la Madrid Games Week), cuya asistencia requeriría del pago de una pequeña
+    participación, y entre cuyos premios habría figuras de personajes de juego,
+    así como el premio especial de disponer de tu propio personaje caracterizado
+    como nuevo personaje heroico en la próxima entrega del juego.
 
     -   Pequeñas figuras comprables como merchandise en estos stands de eventos,
         así como oferta especial por la introducción de dinero en el juego (al
@@ -774,7 +773,7 @@ implementación puede variar.
     -   Nuevos paquetes de eras con el paso del tiempo, desbloqueables en
         tienda, tanto de épocas pasadas como de predicciones de épocas futuras.
 
-2.  **Detalles de producción**
+1.  **Detalles de producción**
 
 ## **11.1. Planificación**
 
